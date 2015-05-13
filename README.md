@@ -1,2 +1,3 @@
 # hello-world
-newbie, of courses
+newbie, of course
+Typo seems to be fixed.
